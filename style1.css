@@ -1,0 +1,187 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hii{
+    height: 150px;
+    margin-top: 50px;
+    background-color: red;
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+#gif1{
+    height: 250px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#he{
+    margin-top: 50px;
+}
+.tenor-gif-embed{
+    height: 100%;
+    width: 120px;
+    align-self: center;
+}
+
+#main1{
+    background-color: skyblue;
+}
+#h1{
+    margin: 25px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 75px;
+}
+#h2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    background-color: white;
+}
+#decision{
+    height: 300px;
+    background-color: pink;
+}
+#t1{
+    height: 150px;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 25px;
+}
+#t2{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.t22{
+    font-size: 90px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.t222{
+    height: 130px;
+    width: 200px;
+    background-color: red;
+    border: 3px solid white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pn1{
+    background-color: #C2F9BB;
+}
+#part1{
+    display: flex;
+    height: 500px;
+    font-size: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#part2{
+    display: flex;
+    height: 200px;
+    background-color: #9AD1D4;
+    margin-top: 25px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gb{
+    height: 60px;
+    width: 300px;
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 20px;
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gb1{
+    text-decoration: none;
+    color: white;
+}
+
+#ready{
+    background-color: aquamarine;
+}
+#w1{
+    height: 400px;
+    color: #20063B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200px;
+}
+#w2{
+    height: 200px;
+    color: #20063B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+.wb{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9AD1D4;
+}
+#imag{
+    height: 750px;
+    width: 100%;
+    background-image: url(aprilfoll.jpg);
+    background-size: cover;
+}
+.sorry{
+    background-color: #C2E7DA;
+}
+#hii1{
+    background-color: #6290C3;
+    height: 600px;
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 25px;
+    flex-direction: column;
+}
+pre{
+    margin-top: 50px;
+    height: 200px;
+    background-color: yellow;
+    color: black;
+}
+#gif2{
+    height: 300px;
+    width: 100%;
+    margin-top: 25px;
+
+}
+#sorr1{
+    background-color: yellow;
+    color: black;
+    height: 200px;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
