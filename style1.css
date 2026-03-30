@@ -185,3 +185,353 @@ pre{
     justify-content: center;
     align-items: center;
 }
+
+/* ===== MOBILE RESPONSIVE STYLES ===== */
+
+/* Small Devices: Extra Small (320px - 576px) */
+@media (max-width: 576px) {
+    .hii {
+        height: 80px;
+        margin-top: 30px;
+        font-size: 40px;
+    }
+
+    #gif1 {
+        height: 150px;
+        margin-top: 30px;
+    }
+
+    .tenor-gif-embed {
+        width: 80px;
+    }
+
+    #he {
+        margin-top: 30px;
+    }
+
+    #h1 {
+        margin: 15px;
+        height: 60px;
+        font-size: 35px;
+    }
+
+    #h2 {
+        font-size: 24px;
+    }
+
+    #decision {
+        height: auto;
+        padding: 20px;
+    }
+
+    #t1 {
+        height: auto;
+        font-size: 45px;
+        margin-top: 15px;
+        padding: 10px;
+    }
+
+    #t2 {
+        flex-direction: column;
+        gap: 15px;
+        padding: 10px;
+    }
+
+    .t22 {
+        font-size: 40px;
+    }
+
+    .t222 {
+        height: 80px;
+        width: 100%;
+        max-width: 250px;
+        margin: 0 auto;
+    }
+
+    #pn1 {
+        min-height: 100vh;
+    }
+
+    #part1 {
+        height: auto;
+        min-height: 200px;
+        font-size: 35px;
+        padding: 20px;
+        flex-direction: column;
+    }
+
+    #part2 {
+        height: auto;
+        min-height: 100px;
+        margin-top: 15px;
+        padding: 15px;
+    }
+
+    .gb {
+        height: 50px;
+        width: 90%;
+        max-width: 250px;
+        font-size: 1.5em;
+    }
+
+    #ready {
+        min-height: 100vh;
+    }
+
+    #w1 {
+        height: auto;
+        min-height: 150px;
+        font-size: 80px;
+        padding: 20px;
+    }
+
+    #w2 {
+        height: auto;
+        min-height: 80px;
+        font-size: 24px;
+        padding: 15px;
+    }
+
+    .wb {
+        height: auto;
+        min-height: 80px;
+        padding: 15px;
+    }
+
+    #imag {
+        height: 300px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    #hii1 {
+        height: auto;
+        min-height: 400px;
+        font-size: 24px;
+        padding: 20px;
+        margin-top: 15px;
+    }
+
+    pre {
+        margin-top: 30px;
+        height: auto;
+        min-height: 150px;
+        padding: 15px;
+        font-size: 12px;
+        overflow-x: auto;
+    }
+
+    #gif2 {
+        height: 200px;
+        margin-top: 15px;
+    }
+
+    #sorr1 {
+        height: auto;
+        min-height: 150px;
+        font-size: 50px;
+        padding: 20px;
+    }
+}
+
+/* Small Devices: Small (576px - 768px) */
+@media (max-width: 768px) and (min-width: 577px) {
+    .hii {
+        height: 110px;
+        margin-top: 40px;
+        font-size: 65px;
+    }
+
+    #gif1 {
+        height: 200px;
+        margin-top: 40px;
+    }
+
+    .tenor-gif-embed {
+        width: 100px;
+    }
+
+    #h1 {
+        margin: 20px;
+        height: 80px;
+        font-size: 50px;
+    }
+
+    #h2 {
+        font-size: 35px;
+    }
+
+    #decision {
+        height: auto;
+        padding: 15px;
+    }
+
+    #t1 {
+        height: auto;
+        font-size: 70px;
+        margin-top: 20px;
+    }
+
+    #t2 {
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    }
+
+    .t22 {
+        font-size: 60px;
+    }
+
+    .t222 {
+        height: 100px;
+        width: 45%;
+        min-width: 150px;
+    }
+
+    #part1 {
+        height: auto;
+        min-height: 250px;
+        font-size: 55px;
+        padding: 20px;
+    }
+
+    #part2 {
+        height: auto;
+        min-height: 120px;
+        padding: 15px;
+    }
+
+    .gb {
+        height: 55px;
+        width: 80%;
+        max-width: 280px;
+        font-size: 2em;
+    }
+
+    #w1 {
+        height: auto;
+        min-height: 200px;
+        font-size: 120px;
+        padding: 20px;
+    }
+
+    #w2 {
+        height: auto;
+        min-height: 100px;
+        font-size: 35px;
+        padding: 15px;
+    }
+
+    #imag {
+        height: 400px;
+        background-position: center;
+    }
+
+    #hii1 {
+        height: auto;
+        min-height: 450px;
+        font-size: 35px;
+        padding: 20px;
+    }
+
+    pre {
+        margin-top: 40px;
+        height: auto;
+        min-height: 150px;
+        padding: 15px;
+        font-size: 14px;
+    }
+
+    #gif2 {
+        height: 250px;
+    }
+
+    #sorr1 {
+        height: auto;
+        min-height: 180px;
+        font-size: 70px;
+        padding: 20px;
+    }
+}
+
+/* Medium Devices and Tablets (769px - 992px) */
+@media (max-width: 992px) and (min-width: 769px) {
+    .hii {
+        font-size: 85px;
+    }
+
+    #h1 {
+        font-size: 60px;
+    }
+
+    #h2 {
+        font-size: 40px;
+    }
+
+    #t1 {
+        font-size: 80px;
+    }
+
+    .t222 {
+        height: 120px;
+        width: 180px;
+    }
+
+    #part1 {
+        height: 400px;
+        font-size: 80px;
+    }
+
+    .gb {
+        height: 55px;
+        width: 250px;
+    }
+
+    #w1 {
+        font-size: 150px;
+    }
+
+    #imag {
+        height: 500px;
+    }
+
+    #hii1 {
+        height: 500px;
+        font-size: 40px;
+    }
+
+    #sorr1 {
+        font-size: 80px;
+    }
+}
+
+/* General Responsive Improvements */
+@media (max-width: 1024px) {
+    body {
+        font-size: 16px;
+    }
+
+    button {
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    button:active {
+        transform: scale(0.95);
+    }
+}
+
+/* Touch-friendly adjustments for mobile */
+@media (hover: none) and (pointer: coarse) {
+    .gb,
+    .t222,
+    a {
+        padding: 10px;
+        min-height: 44px;
+        min-width: 44px;
+    }
+
+    button {
+        -webkit-tap-highlight-color: transparent;
+    }
+}
